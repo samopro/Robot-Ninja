@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/floot_ground01.png-4850cff3ad6e751ac2a14c269261a29d.stex"
+path="res://.import/float_ground02.png-250b02277460f129b8179a1592611dac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ASSETS/worldTiles/floot_ground01.png"
-dest_files=[ "res://.import/floot_ground01.png-4850cff3ad6e751ac2a14c269261a29d.stex" ]
+source_file="res://ASSETS/worldTiles/float_ground02.png"
+dest_files=[ "res://.import/float_ground02.png-250b02277460f129b8179a1592611dac.stex" ]
 
 [params]
 
