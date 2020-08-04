@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GroundTiles.png-416af39363f653f9c3ebc153d58b7aeb.stex"
+path="res://.import/Idle__007.png-3b421a5bc78b03c1fa47d39800cfc3cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/GroundTiles.png"
-dest_files=[ "res://.import/GroundTiles.png-416af39363f653f9c3ebc153d58b7aeb.stex" ]
+source_file="res://ASSETS/ninja/Idle__007.png"
+dest_files=[ "res://.import/Idle__007.png-3b421a5bc78b03c1fa47d39800cfc3cf.stex" ]
 
 [params]
 
