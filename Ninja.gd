@@ -23,6 +23,8 @@ func _physics_process(delta):
 		$NinSprite.play("idle")
 		velocity.x = 0
 
+	if not is_on_floor():
+		$NinSprite.play("jump")
+		
 	if Input.is_action_just_pressed("ui_select"):
 		velocity.y = JUMPFORCE
-		$NinSprite.play("jump")
