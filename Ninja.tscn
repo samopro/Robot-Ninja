@@ -48,17 +48,17 @@ animations = [ {
 } ]
 
 [sub_resource type="CapsuleShape2D" id=2]
-radius = 20.1749
-height = 47.5977
+radius = 13.5743
+height = 15.5278
 
 [node name="KinematicBody2D" type="KinematicBody2D"]
 script = ExtResource( 10 )
 
 [node name="NinSprite" type="AnimatedSprite" parent="."]
-scale = Vector2( 0.2, 0.2 )
+scale = Vector2( 0.1, 0.1 )
 frames = SubResource( 1 )
 animation = "jump"
-frame = 3
+frame = 4
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
