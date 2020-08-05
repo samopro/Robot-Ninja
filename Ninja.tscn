@@ -58,7 +58,7 @@ script = ExtResource( 10 )
 scale = Vector2( 0.1, 0.1 )
 frames = SubResource( 1 )
 animation = "jump"
-frame = 4
+frame = 7
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -67,3 +67,7 @@ shape = SubResource( 2 )
 __meta__ = {
 "_edit_group_": true
 }
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+limit_left = -9000000
